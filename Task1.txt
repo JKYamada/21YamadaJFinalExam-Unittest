@@ -1,0 +1,2 @@
+1) write the test class testing the new functionality
+2) implement the code and run it through the tests
